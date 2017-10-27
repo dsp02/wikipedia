@@ -1,2 +1,8 @@
 *.class
 *.log
+*.impl
+*.ipr
+*.iws
+*.idea
+out
+target
